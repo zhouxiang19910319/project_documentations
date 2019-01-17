@@ -16,9 +16,11 @@ date:   2018-12-12 15:54:37 +0800
 * Add in the trick2g youtube comments quote section into the site. ✅
 * Project Repo is [here](https://github.com/zhouxiang19910319/trick2g_site_2)
 
-## Features Pending to be added in Version 3
+## Version 3
+* Remove bootstrap(hence jQuery) and use CSS grid to re-build the UI. ✅
+* Make random quote machine from scratch without bootstrap's UI.✅
+
+## Features Pending to be added in Version 4
 1. Make the youtube playlist section an infinite scroll one. Utilizing `nextPageToken` as well as `prevPageToken` ?? 
-2. Remove bootstrap(hence jQuery) and use CSS grid to re-build the UI.
-3. Gives users the ability to log in using their own twitch.tv account as well as youtube account. (is this really necessary?)
-4. Make random quote machine from scratch without bootstrap's UI.
+2. Gives users the ability to log in using their own twitch.tv account as well as youtube account. (is this really necessary?)
 5. Utilize netlify's platform convert this to a serverless site. Hence store the API key in a safer place.
