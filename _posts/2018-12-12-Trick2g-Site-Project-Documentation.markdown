@@ -11,7 +11,7 @@ date:   2018-12-12 15:54:37 +0800
 * Embed youtube videos as well as twicth.tv section into my site.
 * Project Repo is [here](https://github.com/zhouxiang19910319/trick2g_site)
 
-## Version 2 (**on work**)
+## Version 2
 * Re-wrote everything in the javascript file, using vanilla javascript (ES6) to pull data from youtube's server, feeds off those data into the DOM. ✅
 * Add in the trick2g youtube comments quote section into the site. ✅
 * Project Repo is [here](https://github.com/zhouxiang19910319/trick2g_site_2)
@@ -19,6 +19,7 @@ date:   2018-12-12 15:54:37 +0800
 ## Version 3
 * Remove bootstrap(hence jQuery) and use CSS grid to re-build the UI. ✅
 * Make random quote machine from scratch without bootstrap's UI.✅
+* Project Repo is [here](https://github.com/zhouxiang19910319/trick2g_site_3)
 
 ## Features Pending to be added in Version 4
 1. Make the youtube playlist section an infinite scroll one. Utilizing `nextPageToken` as well as `prevPageToken` ?? 
