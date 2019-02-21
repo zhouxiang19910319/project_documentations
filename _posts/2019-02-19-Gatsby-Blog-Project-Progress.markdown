@@ -23,3 +23,8 @@ date:   2018-12-12 15:54:37 +0800
 2019/02/21
 * Had some progress on re-doing the main page, eventually chose CSS in JS to do it.
 * Finished index page's layout.
+
+* W3 project had some progress too. Successfully get the weather data using open weather API + fetch method. 
+* Next steps: 
+  * Code the UI
+  * Put in all the elements (icons + fonts + colors etc), find the right ones.
