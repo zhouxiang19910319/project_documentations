@@ -19,3 +19,7 @@ date:   2018-12-12 15:54:37 +0800
 * Finish the HTML/CSS part of the 404 page. https://codepen.io/zhouxiang19910319/pen/GzeePV, how to convert this into a randdom quote machine AND put it into my gatsby blog is another question.
 
 * Had some progress when it comes to the gatsby blog. Learned the difference between using bootstrap VS react-bootstrap in gatsby site.
+
+2019/02/21
+* Had some progress on re-doing the main page, eventually chose CSS in JS to do it.
+* Finished index page's layout.
