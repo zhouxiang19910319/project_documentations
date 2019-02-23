@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Gatsby Blog Project Progress"
+title:  "General Progress"
 date:   2018-12-12 15:54:37 +0800
 ---
 
-# Gatsby Blog Project Progress
+# General Progress
 
 
 2019/02/19
@@ -28,3 +28,32 @@ date:   2018-12-12 15:54:37 +0800
 * Next steps: 
   * Code the UI
   * Put in all the elements (icons + fonts + colors etc), find the right ones.
+
+2019/02/22 W3 Progress
+* Steps: 
+1. about swapping out all the icons: maybe use font awesome? 
+
+
+`<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+` 
+
+2. **No need to differentiate day and night**
+3. Use switch cases when it comes to the icon.
+4. Code out the general UI?
+5. Decided the main font of the project: Open Sans
+6. Icon list:
+    * Sun:  `<i class="far fa-sun"></i>`
+    * Cloud: `<i class="fas fa-cloud"></i>`
+    * Rain: `<i class="fas fa-cloud-showers-heavy"></i>`
+    * Thunderstorm: `<i class="fas fa-bolt"></i>`
+    * Snow: `<i class="fas fa-snowflake"></i>`
+    * Mist: `<i class="fas fa-water"></i>`
+
+7. Weather condition codes
+    * 2xx: Thunderstorm
+    * 3xx: Rain
+    * 5xx: Rain
+    * 6xx: Snow
+    * 7xx: Mist
+    * 800: Sun
+    * 80x: Cloud
