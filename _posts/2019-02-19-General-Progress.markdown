@@ -57,3 +57,9 @@ date:   2018-12-12 15:54:37 +0800
     * 7xx: Mist
     * 800: Sun
     * 80x: Cloud
+
+2019/02/24
+
+# **Today I just got another side project idea. Wow.**
+# **Built a site that can generate charts based on numbers that user can key in. So that youtube Channels like hardware unboxed do not need to spend hours of time building charts.**
+
