@@ -63,3 +63,9 @@ date:   2018-12-12 15:54:37 +0800
 # **Today I just got another side project idea. Wow.**
 # **Built a site that can generate charts based on numbers that user can key in. So that youtube Channels like hardware unboxed do not need to spend hours of time building charts.**
 
+
+2019/03/03
+
+* Keep making changes to the latest version of my portfolio.
+* Came up with a new design idea when it comes to the mobile version of the site.
+* Finished another version of my own portfolio. https://mattzhou.com/
