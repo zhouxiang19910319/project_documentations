@@ -60,7 +60,7 @@ date:   2018-12-12 15:54:37 +0800
 
 2019/02/24
 
-# **Today I just got another side project idea. Wow.**
+# **Side project idea.**
 # **Built a site that can generate charts based on numbers that user can key in. So that youtube Channels like hardware unboxed do not need to spend hours of time building charts.**
 
 
@@ -75,3 +75,6 @@ date:   2018-12-12 15:54:37 +0800
 * I need to make sure that however the page get zoomed in , all of the content on the page (text,pics) must fit in on the screen.
 * **Done with my portfolio for now.** https://mattzhou.com
 
+2019/03/08
+# **Side project idea.**
+# **Google Chrome / Firefox / Safari bookmark syncing tool**
