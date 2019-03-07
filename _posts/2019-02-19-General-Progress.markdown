@@ -78,3 +78,33 @@ date:   2018-12-12 15:54:37 +0800
 2019/03/08
 # **Side project idea.**
 # **Google Chrome / Firefox / Safari bookmark syncing tool**
+
+* Successfully made slowpacedcoding blog posts sorted by date. 
+
+```
+export const pageQuery = graphql`
+  query BlogIndexQuery{
+      allMarkdownRemark
+      (sort: { fields: [frontmatter___date], order: DESC })
+      {
+        edges{
+          node{
+            id
+            frontmatter{
+              path
+              title
+              date
+              author
+            }
+          }
+        }
+      }
+    }
+`
+export default blogPage
+```
+
+* Changed some of the styling on blog post page.
+* Tasks left to do: 
+    1. Make the slowpacedcoding icon a responsive image using : `gatsby-image`.
+    2. Find out why individual blog posts does NOT have any styling at all.
