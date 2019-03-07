@@ -69,3 +69,9 @@ date:   2018-12-12 15:54:37 +0800
 * Keep making changes to the latest version of my portfolio.
 * Came up with a new design idea when it comes to the mobile version of the site.
 * Finished another version of my own portfolio. https://mattzhou.com/
+
+2019/03/07
+* ~~Page height is related to portfolio site displayed funny on small screen phone, like iphone 5.~~
+* I need to make sure that however the page get zoomed in , all of the content on the page (text,pics) must fit in on the screen.
+* **Done with my portfolio for now.** https://mattzhou.com
+
