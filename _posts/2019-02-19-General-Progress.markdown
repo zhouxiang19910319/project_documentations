@@ -112,3 +112,10 @@ export default blogPage
 2019/03/09
 
 * https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/
+
+2019/03/10 (got a lot done today)
+
+* Swapped out the logo with an png image.
+* Centered the saying image using flexbox + margin: 0 auto. (had to use both of them).
+* Solved the issue where the color you see in photoshop is not the same as the color you see on your web.
+
