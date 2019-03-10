@@ -106,7 +106,7 @@ export default blogPage
 
 * Changed some of the styling on blog post page.
 * Tasks left to do: 
-    1. Make the slowpacedcoding icon a responsive image using : `gatsby-image`.
+    1. Make the slowpacedcoding icon a responsive image using : `gatsby-image`. ✅
     2. Find out why individual blog posts does NOT have any styling at all.
 
 2019/03/09
@@ -119,3 +119,8 @@ export default blogPage
 * Centered the saying image using flexbox + margin: 0 auto. (had to use both of them).
 * Solved the issue where the color you see in photoshop is not the same as the color you see on your web.
 
+TODO LIST: 
+1. Add in the footer.
+2. Finish the random quote machine on the 404 page.
+3. Move blog.js to the index page.
+4. Fix the styling for the individual blog posts.
