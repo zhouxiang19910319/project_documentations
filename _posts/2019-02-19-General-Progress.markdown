@@ -108,3 +108,7 @@ export default blogPage
 * Tasks left to do: 
     1. Make the slowpacedcoding icon a responsive image using : `gatsby-image`.
     2. Find out why individual blog posts does NOT have any styling at all.
+
+2019/03/09
+
+* https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/
