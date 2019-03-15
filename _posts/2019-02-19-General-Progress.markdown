@@ -124,3 +124,8 @@ TODO LIST:
 2. Finish the random quote machine on the 404 page.
 3. Move blog.js to the index page.
 4. Fix the styling for the individual blog posts.
+
+
+2019/03/15
+# **Side project idea.**
+# **Build a macOS finder clone using VUE/React JS.**
